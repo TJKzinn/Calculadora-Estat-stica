@@ -1,0 +1,44 @@
+# 📘 Projeto de Lógica de Programação – Curso Técnico em Desenvolvimento de Sistemas  
+
+## 📌 Informações do Projeto  
+- **Aluno:** [Kauã Matoso da Silva]  
+- **Turma:** [2° DS]  
+- **Matéria:** Lógica de Programação  
+- **Tema do Projeto:** [Descreva o tema escolhido, ex.: Calculadora estatística ]  
+
+---
+
+## 📝 Descrição  
+Este projeto foi desenvolvido como parte da disciplina de **Lógica de Programação** do curso Técnico em Desenvolvimento de Sistemas.  
+
+O objetivo é **[O objetivo de uma calculadora estatística básica que calcula média, mediana e moda é facilitar a análise de dados, permitindo identificar rapidamente:
+
+Média: valor central aproximado do conjunto de dados.
+
+Mediana: ponto que separa os dados ao meio, mostrando a tendência central sem ser afetado por valores extremos.
+
+Moda: valor que mais se repete, evidenciando padrões ou tendências do conjunto.]**.  
+
+---
+
+## ⚙️ Funcionalidades  
+- [Cálculo da média – Determina o valor médio do conjunto de dados]  
+- [Cálculo da mediana – Identifica o valor central que divide os dados ao meio.]  
+- [Cálculo da moda – Mostra o valor que mais se repete no conjunto de dados.]
+- [Soma Total]
+- [Quantidade de Algarismos]
+
+---
+
+## 💻 Tecnologias Utilizadas  
+- Linguagem: **Python**  
+- Bibliotecas utilizadas:  
+  - [random]  
+  - [estatistics]  
+
+---
+
+## 🚀 Como Executar  
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/
